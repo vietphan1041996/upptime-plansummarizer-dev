@@ -4,19 +4,19 @@
     "url": "https://plansummarizer.dev.labs.virtical.ai",
     "icon": "https://icons.duckduckgo.com/ip3/plansummarizer.dev.labs.virtical.ai.ico",
     "slug": "plan-summarizer-dev-4",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "75.88%",
+    "uptimeDay": "75.88%",
+    "uptimeWeek": "75.88%",
+    "uptimeMonth": "75.88%",
+    "uptimeYear": "75.88%",
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-07-31": 0
+      "2024-07-31": 6
     }
   }
 ]
