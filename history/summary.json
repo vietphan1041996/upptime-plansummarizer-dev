@@ -1,22 +1,20 @@
 [
   {
-    "name": "Plan Summarizer Dev",
+    "name": "Plan Summarizer Dev 3",
     "url": "https://plansummarizer.dev.labs.virtical.ai",
     "icon": "https://icons.duckduckgo.com/ip3/plansummarizer.dev.labs.virtical.ai.ico",
-    "slug": "plan-summarizer-dev",
+    "slug": "plan-summarizer-dev-3",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
-    "dailyMinutesDown": {
-      "2024-07-31": 33
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
+    "dailyMinutesDown": {}
   }
 ]
