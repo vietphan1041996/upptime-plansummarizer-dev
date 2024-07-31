@@ -1,22 +1,22 @@
 [
   {
     "name": "Plan Summarizer Dev",
-    "url": "https://thisisnotrealdomain.com",
-    "icon": "https://icons.duckduckgo.com/ip3/thisisnotrealdomain.com.ico",
+    "url": "https://thisisnotrealdomain123.com",
+    "icon": "https://icons.duckduckgo.com/ip3/thisisnotrealdomain123.com.ico",
     "slug": "plan-summarizer-dev",
     "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptime": "82.82%",
+    "uptimeDay": "82.82%",
+    "uptimeWeek": "82.82%",
+    "uptimeMonth": "82.82%",
+    "uptimeYear": "82.82%",
     "time": 244,
     "timeDay": 244,
     "timeWeek": 244,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-07-31": 0
+      "2024-07-31": 7
     }
   }
 ]
