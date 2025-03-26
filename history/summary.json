@@ -4,7 +4,7 @@
     "url": "https://plansummarizer.virtical.ai",
     "icon": "https://icons.duckduckgo.com/ip3/plansummarizer.virtical.ai.ico",
     "slug": "plan-summarizer-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 170,
     "timeMonth": 189,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-26": 0
+    }
   }
 ]
