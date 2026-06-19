@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plansummarizer.virtical.ai.ico",
     "slug": "plan-summarizer-prod",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.84%",
+    "uptimeDay": "37.53%",
+    "uptimeWeek": "91.08%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "99.70%",
     "time": 240,
-    "timeDay": 300,
-    "timeWeek": 188,
-    "timeMonth": 172,
-    "timeYear": 250,
+    "timeDay": 0,
+    "timeWeek": 205,
+    "timeMonth": 168,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-09-02": 26,
       "2025-10-23": 31,
@@ -23,7 +23,9 @@
       "2026-01-29": 43,
       "2026-02-05": 91,
       "2026-04-23": 114,
-      "2026-06-10": 211
+      "2026-06-10": 211,
+      "2026-06-19": 297,
+      "2026-06-18": 602
     }
   }
 ]
